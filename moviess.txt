@@ -1,8 +1,6 @@
 
-<<<<<<< HEAD
-=======
+HEAD
 The Matrix
 Stuart Little (Very good movie)
 Raggi and the five blondies - adult movie
 branches change
->>>>>>> 85454bb3112bc8359602c9aa3ff187309a5c3fe4
